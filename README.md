@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/AnychainX/quiz-app">
+  <a href="https://quiz-app-mvp-react.vercel.app/">
     QuizApp
   </a>
 </h1>
@@ -18,6 +18,10 @@
 
 <p align="center">
   QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
+</p>
+
+<p align="center">
+  Live site: <a href="https://quiz-app-mvp-react.vercel.app/">https://quiz-app-mvp-react.vercel.app/</a>
 </p>
 
 ## Built with
